@@ -1,0 +1,31 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "An rpg using OOP, TDD, Node.js",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sithSlave/jest-another-RPG.git"
+  },
+  "keywords": [
+    "OOP",
+    "TDD",
+    "Node.js",
+    "RPG"
+  ],
+  "author": "Josh Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sithSlave/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/sithSlave/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
