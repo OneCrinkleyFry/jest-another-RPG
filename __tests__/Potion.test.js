@@ -1,5 +1,5 @@
 const { TestResult } = require('@jest/types');
-const Potion = require('../lib/Potion.js');
+const Potion = require('../lib/Potion');
 
 test('creates a health potion object', () => {
     const potion = new Potion('health');
